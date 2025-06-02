@@ -73,9 +73,3 @@ This project addresses these questions through a **real-time, data-driven approa
 
 ---
 
-## 🏆 How to Use
-
-1️⃣ Clone the repository:
-
-```bash
-git clone https://github.com/KiranCorreya93/UK-Data-Job-Insights-2025.git
