@@ -56,10 +56,12 @@ This project addresses these questions through a **real-time, data-driven approa
 
 ## 🔍 Key Results
 
-- Identified **top 15 most in-demand skills** for Data Analysts and Data Scientists in the UK
-- Mapped **role–skill relationships** using Network Graphs
-- Revealed **salary trends** by role and location
-- Produced an interactive **Power BI Dashboard** for **real-time insights**
+ **Top Skills**: SQL, Python, Excel, Power BI, Machine Learning (ML)  
+ **Role Demand**: Data Analyst roles show **high demand**; Data Scientist roles command **higher salary**  
+ **Skill Trends**: Employers value **soft skills** as much as technical skills  
+ **Regional Trends**: London leads in job volume; **regional demand is growing**  
+ **Tech Trends**: Python is now **more in demand** than some traditional visualization tools  
+
 
 ---
 
@@ -71,15 +73,6 @@ This project addresses these questions through a **real-time, data-driven approa
 |----------|-----------------|
 | Power BI Dashboard (.pbix) | [`/powerbi_dashboard/UK_Data_Job_Insights.pbix`](./powerbi_dashboard/UK_Data_Job_Insights.pbix) |
 | Dashboard Screenshots | [`/powerbi_dashboard/dashboard_screenshots/`](./powerbi_dashboard/dashboard_screenshots/) |
-
-### 📈 Notebooks
-
-| Notebook | Purpose |
-|----------|---------|
-| `data_extraction.ipynb` | Job scraping: Reed API + Selenium |
-| `data_cleaning.ipynb` | Cleaning + transformation |
-| `skill_extraction.ipynb` | Skill extraction logic |
-| `exploratory_analysis.ipynb` | EDA & Visualization |
 
 ---
 
