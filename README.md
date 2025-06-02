@@ -1,8 +1,6 @@
 # 📊 UK Data Job Market Analysis 2025
 
 [![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&style=flat-square)](https://powerbi.microsoft.com/) 
-[![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat-square)](https://www.python.org/) 
-
 
 ---
 
@@ -42,6 +40,8 @@ This project addresses these questions through a **real-time, data-driven approa
 | Salary Standardization | Advanced normalization to annual salary for comparison |
 | Location Cleaning | Standardized to major UK cities |
 
+**Dataset Link:** [Download from SharePoint](https://londonmet-my.sharepoint.com/:x:/g/personal/kic0211_my_londonmet_ac_uk/EUyK34_QF8VJmESOxlpTRlUBY88m5hPjFFaofz95elDuig?e=qJ9Boe)
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -56,28 +56,25 @@ This project addresses these questions through a **real-time, data-driven approa
 
 ## 🔍 Key Results
 
--  **Top Skills**: SQL, Python, Excel, Power BI, Machine Learning (ML)  
--  **Role Demand**: Data Analyst roles show **high demand**; Data Scientist roles command **higher salary**  
--  **Skill Trends**: Employers value **soft skills** as much as technical skills  
--  **Regional Trends**: London leads in job volume; **regional demand is growing**  
--  **Tech Trends**: Python is now **more in demand** than some traditional visualization tools  
-
+- **Top Skills**: SQL, Python, Excel, Power BI, Machine Learning (ML)  
+- **Role Demand**: Data Analyst roles show **high demand**; Data Scientist roles command **higher salary**  
+- **Skill Trends**: Employers value **soft skills** as much as technical skills  
+- **Regional Trends**: London leads in job volume; **regional demand is growing**  
+- **Tech Trends**: Python is now **more in demand** than some traditional visualization tools  
 
 ---
 
 ## 📊 Project Artifacts
 
-### 🚀 Interactive Dashboard
-
-| Artifact | Link / Location |
-|----------|-----------------|
-| Power BI Dashboard (.pbix) | [`/powerbi_dashboard/UK_Data_Job_Insights.pbix`](./powerbi_dashboard/UK_Data_Job_Insights.pbix) |
-| Dashboard Screenshots | [`/powerbi_dashboard/dashboard_screenshots/`](./powerbi_dashboard/dashboard_screenshots/) |
+| Artifact | Link |
+|----------|------|
+| **Interactive Power BI Dashboard** | [View Dashboard (SharePoint link)](https://londonmet-my.sharepoint.com/:u:/g/personal/kic0211_my_londonmet_ac_uk/EQtsmioL0L5Op6n_Hg4tHFUBhO_06mwj2u0F7m5g4ggRYA?e=w0yRkW) 
 
 ---
 
 ## 🏆 How to Use
 
-1️⃣ Clone the repository:  
+1️⃣ Clone the repository:
+
 ```bash
 git clone https://github.com/KiranCorreya93/UK-Data-Job-Insights-2025.git
