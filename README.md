@@ -1,6 +1,7 @@
 # 📊 UK Data Job Market Analysis 2025
 
-[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&style=flat-square)]([https://powerbi.microsoft.com/](https://londonmet-my.sharepoint.com/my?id=%2Fpersonal%2Fkic0211%5Fmy%5Flondonmet%5Fac%5Fuk%2FDocuments%2FPower%20Bi%2FMsc%20Dissertation%20Files%2FPython%20code%2FUK%20Data%20Job%20Insight%20Dashboard%2Epbix&parent=%2Fpersonal%2Fkic0211%5Fmy%5Flondonmet%5Fac%5Fuk%2FDocuments%2FPower%20Bi%2FMsc%20Dissertation%20Files%2FPython%20code&ga=1)) 
+[![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&style=flat-square)](https://londonmet-my.sharepoint.com/:u:/g/personal/kic0211_my_londonmet_ac_uk/EQtsmioL0L5Op6n_Hg4tHFUBhO_06mwj2u0F7m5g4ggRYA?e=w0yRkW)
+
 
 ---
 
