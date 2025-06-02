@@ -2,7 +2,7 @@
 
 [![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow?logo=powerbi&style=flat-square)](https://powerbi.microsoft.com/) 
 [![Python](https://img.shields.io/badge/Language-Python-blue?logo=python&style=flat-square)](https://www.python.org/) 
-[![SQL](https://img.shields.io/badge/Database-SQL-lightgrey?logo=sqlite&style=flat-square)](https://www.sql.org/)
+
 
 ---
 
@@ -56,11 +56,11 @@ This project addresses these questions through a **real-time, data-driven approa
 
 ## 🔍 Key Results
 
- **Top Skills**: SQL, Python, Excel, Power BI, Machine Learning (ML)  
- **Role Demand**: Data Analyst roles show **high demand**; Data Scientist roles command **higher salary**  
- **Skill Trends**: Employers value **soft skills** as much as technical skills  
- **Regional Trends**: London leads in job volume; **regional demand is growing**  
- **Tech Trends**: Python is now **more in demand** than some traditional visualization tools  
+-  **Top Skills**: SQL, Python, Excel, Power BI, Machine Learning (ML)  
+-  **Role Demand**: Data Analyst roles show **high demand**; Data Scientist roles command **higher salary**  
+-  **Skill Trends**: Employers value **soft skills** as much as technical skills  
+-  **Regional Trends**: London leads in job volume; **regional demand is growing**  
+-  **Tech Trends**: Python is now **more in demand** than some traditional visualization tools  
 
 
 ---
